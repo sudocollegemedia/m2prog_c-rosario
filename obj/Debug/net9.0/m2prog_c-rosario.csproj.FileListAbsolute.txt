@@ -1,0 +1,15 @@
+C:\Users\motox\OneDrive\Documents\schoolcode\prog-c#\M2Prog_cs1\02_classes\m2prog_c-rosario\obj\Debug\net9.0\m2prog_c-rosario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\motox\OneDrive\Documents\schoolcode\prog-c#\M2Prog_cs1\02_classes\m2prog_c-rosario\obj\Debug\net9.0\m2prog_c-rosario.AssemblyInfoInputs.cache
+C:\Users\motox\OneDrive\Documents\schoolcode\prog-c#\M2Prog_cs1\02_classes\m2prog_c-rosario\obj\Debug\net9.0\m2prog_c-rosario.AssemblyInfo.cs
+C:\Users\motox\OneDrive\Documents\schoolcode\prog-c#\M2Prog_cs1\02_classes\m2prog_c-rosario\obj\Debug\net9.0\m2prog_c-rosario.csproj.CoreCompileInputs.cache
+C:\Users\motox\OneDrive\Documents\schoolcode\prog-c#\M2Prog_cs1\02_classes\m2prog_c-rosario\obj\Debug\net9.0\m2prog_c-rosario.sourcelink.json
+C:\Users\motox\OneDrive\Documents\schoolcode\prog-c#\M2Prog_cs1\02_classes\m2prog_c-rosario\bin\Debug\net9.0\m2prog_c-rosario.exe
+C:\Users\motox\OneDrive\Documents\schoolcode\prog-c#\M2Prog_cs1\02_classes\m2prog_c-rosario\bin\Debug\net9.0\m2prog_c-rosario.deps.json
+C:\Users\motox\OneDrive\Documents\schoolcode\prog-c#\M2Prog_cs1\02_classes\m2prog_c-rosario\bin\Debug\net9.0\m2prog_c-rosario.runtimeconfig.json
+C:\Users\motox\OneDrive\Documents\schoolcode\prog-c#\M2Prog_cs1\02_classes\m2prog_c-rosario\bin\Debug\net9.0\m2prog_c-rosario.dll
+C:\Users\motox\OneDrive\Documents\schoolcode\prog-c#\M2Prog_cs1\02_classes\m2prog_c-rosario\bin\Debug\net9.0\m2prog_c-rosario.pdb
+C:\Users\motox\OneDrive\Documents\schoolcode\prog-c#\M2Prog_cs1\02_classes\m2prog_c-rosario\obj\Debug\net9.0\m2prog_c-rosario.dll
+C:\Users\motox\OneDrive\Documents\schoolcode\prog-c#\M2Prog_cs1\02_classes\m2prog_c-rosario\obj\Debug\net9.0\refint\m2prog_c-rosario.dll
+C:\Users\motox\OneDrive\Documents\schoolcode\prog-c#\M2Prog_cs1\02_classes\m2prog_c-rosario\obj\Debug\net9.0\m2prog_c-rosario.pdb
+C:\Users\motox\OneDrive\Documents\schoolcode\prog-c#\M2Prog_cs1\02_classes\m2prog_c-rosario\obj\Debug\net9.0\m2prog_c-rosario.genruntimeconfig.cache
+C:\Users\motox\OneDrive\Documents\schoolcode\prog-c#\M2Prog_cs1\02_classes\m2prog_c-rosario\obj\Debug\net9.0\ref\m2prog_c-rosario.dll
