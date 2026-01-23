@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_classes", "02_classes.csproj", "{8C81CC00-5DBD-6A6C-934B-3DEBB2232733}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "m2prog_c-rosario", "m2prog_c-rosario\m2prog_c-rosario.csproj", "{1EF62D0A-315C-27E7-ECD0-953BDC4D0C67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C81CC00-5DBD-6A6C-934B-3DEBB2232733}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C81CC00-5DBD-6A6C-934B-3DEBB2232733}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C81CC00-5DBD-6A6C-934B-3DEBB2232733}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C81CC00-5DBD-6A6C-934B-3DEBB2232733}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EF62D0A-315C-27E7-ECD0-953BDC4D0C67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EF62D0A-315C-27E7-ECD0-953BDC4D0C67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EF62D0A-315C-27E7-ECD0-953BDC4D0C67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EF62D0A-315C-27E7-ECD0-953BDC4D0C67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B729614-1497-4ED8-AF07-48F490B32EA3}
+	EndGlobalSection
+EndGlobal
