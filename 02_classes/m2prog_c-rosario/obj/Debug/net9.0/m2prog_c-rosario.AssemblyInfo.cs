@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("m2prog_c-rosario")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+953a34a73c3880816093f46d9ea12bf528dd38c4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0897cabdfd4bb495046f5a3aa00189b79add4485")]
 [assembly: System.Reflection.AssemblyProductAttribute("m2prog_c-rosario")]
 [assembly: System.Reflection.AssemblyTitleAttribute("m2prog_c-rosario")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
